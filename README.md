@@ -17,6 +17,4 @@ I'm [Hoshikoooo], a passionate self-taught developer from [India]. My passion fo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## My GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshikoooo&show_icons=true&theme=dark)
-
-![Hoshikoooo GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshikoooo&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshikoooo&show_icons=true&theme=tokyonight)
