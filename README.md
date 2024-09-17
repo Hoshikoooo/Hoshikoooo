@@ -11,7 +11,7 @@ I'm [Hoshikoooo], a passionate self-taught developer from [India]. My passion fo
 ・📚 Always eager to learn new technologies, improve my coding skills, and contribute to open-source projects.
 
 ・🎯 Looking forward to collaborating on innovative and beginner-friendly projects, especially in the Discord ecosystem and Java development
-・📫 How to reach me: [https://discord.com/invite/bFcbJhrHNH]
+・📫 How to reach me: [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/bFcbJhrHNH)
 
 ## Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
