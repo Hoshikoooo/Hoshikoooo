@@ -49,6 +49,3 @@ A multi-purpose Discord bot with a focus on music and moderation
 ## My GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshikoooo&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshikoooo&layout=compact)
-<a href="https://github.com/hoshikoooo/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoshikoooo&layout=compact&langs_count=8&card_width=320" />
-</a>
