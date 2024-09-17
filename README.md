@@ -54,4 +54,4 @@ A multi-purpose Discord bot with a focus on music and moderation
 
 ### [Simple Discord Bot](https://github.com/Hoshikoooo/simple-discord-bot)
 
-![Simple Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=Hoshikoooo&repo=simple-discord-bot)
+![Simple Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=Hoshikoooo&repo=simple-discord-bot&theme=radical)
