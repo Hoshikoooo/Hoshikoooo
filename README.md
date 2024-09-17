@@ -48,4 +48,4 @@ A multi-purpose Discord bot with a focus on music and moderation
 
 ## My GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshikoooo&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshikoooo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshikoooo&layout=compact)
