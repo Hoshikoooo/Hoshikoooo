@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-** About Me
+**About Me**
 
 👨‍💻 I’m an aspiring software developer with a strong focus on Python and Java.
 🤖 Passionate about Discord bot development, I enjoy creating automated solutions to enhance community engagement and streamline server management.
