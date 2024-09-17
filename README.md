@@ -28,5 +28,19 @@ I'm [Hoshikoooo], a passionate self-taught developer from [India]. My passion fo
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 🚀 Projects
+
+### [Project 1: Discord Bot](https://github.com/Hoshikoooo/discord-bot)
+A customizable Discord bot built with Python using discord.py. It features automated moderation, music playback, and self-assignable roles.
+
+### [Project 2: Java Application](https://github.com/Hoshikoooo/java-app)
+A Java desktop application for task management, featuring a sleek user interface and file-saving capabilities using JavaFX.
+
+### [Project 3: Web Portfolio](https://github.com/Hoshikoooo/web-portfolio)
+A personal portfolio website built with HTML, CSS, and JavaScript, showcasing my skills, projects, and contact information.
+
+### [Project 4: API Integration](https://github.com/Hoshikoooo/api-integration)
+An application that integrates with third-party APIs to automate tasks and provide real-time data, using Python and Flask.
+
 ## My GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshikoooo&show_icons=true&theme=tokyonight)
