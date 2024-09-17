@@ -52,6 +52,6 @@ A multi-purpose Discord bot with a focus on music and moderation
 
 ## Featured Repository
 
-### [Testing-](https://github.com/Hoshikoooo/Testing-)
+### [Simple Discord Bot](https://github.com/Hoshikoooo/simple-discord-bot)
 
-![Testing- Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Hoshikoooo&repo=Testing-)
+![Simple Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=Hoshikoooo&repo=simple-discord-bot)
