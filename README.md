@@ -28,24 +28,6 @@ I'm [Hoshikoooo], a passionate self-taught developer from [India]. My passion fo
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📂 My Projects
-
-### [LavaMusic](https://github.com/Hoshikoooo/lavamusic)
-Lavalink music bot base in Shoukaku and discord.js v14  
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![Stars](https://img.shields.io/github/stars/Hoshikoooo/lavamusic) ![Forks](https://img.shields.io/github/forks/Hoshikoooo/lavamusic)
-
-### [WaveMusic](https://github.com/Hoshikoooo/wavemusic)
-WaveMusic is a Discord music bot base in Shoukaku  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Stars](https://img.shields.io/github/stars/Hoshikoooo/wavemusic) ![Forks](https://img.shields.io/github/forks/Hoshikoooo/wavemusic)
-
-### [Lavalink-List](https://github.com/Hoshikoooo/lavalink-list)
-A list of free and available public Lavalink nodes with their live status  
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![Stars](https://img.shields.io/github/stars/Hoshikoooo/lavalink-list) ![Forks](https://img.shields.io/github/forks/Hoshikoooo/lavalink-list)
-
-### [Navi](https://github.com/Hoshikoooo/navi)
-A multi-purpose Discord bot with a focus on music and moderation  
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![Stars](https://img.shields.io/github/stars/Hoshikoooo/navi) ![Forks](https://img.shields.io/github/forks/Hoshikoooo/navi)
-
 ## My GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshikoooo&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshikoooo&layout=compact)
