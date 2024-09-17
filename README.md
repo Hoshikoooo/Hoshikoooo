@@ -49,3 +49,14 @@ A multi-purpose Discord bot with a focus on music and moderation
 ## My GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshikoooo&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshikoooo&layout=compact)
+
+
+## Featured Repositories
+
+### My Awesome Repo
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Hoshikoooo&repo=your-repo-name)
+
+### Top Repositories
+
+![Top Repositories](https://github-readme-stats.vercel.app/api/top-repos/?username=Hoshikoooo&layout=compact)
