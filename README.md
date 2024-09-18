@@ -32,8 +32,5 @@ I'm [Hoshikoooo], a passionate self-taught developer from [India]. My passion fo
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoshikoooo&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshikoooo&layout=compact)
 
-## Featured Repository
-
-### [Simple Discord Bot](https://github.com/Hoshikoooo/simple-discord-bot)
-
-![Simple Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=Hoshikoooo&repo=simple-discord-bot&theme=radical)
+## 🌟Featured Repository
+[![discord-moderation-bot-](https://github-readme-stats.vercel.app/api/pin/?username=Hoshikoooo&repo=discord-moderation-bot-)](https://github.com/Hoshikoooo/discord-moderation-bot-)
